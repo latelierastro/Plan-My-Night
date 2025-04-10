@@ -21,5 +21,9 @@ namespace PlanMyNight.PlanMyNightDockables.Views {
         private void CheckBox_Checked_3(object sender, System.Windows.RoutedEventArgs e) {
 
         }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e) {
+
+        }
     }
 }

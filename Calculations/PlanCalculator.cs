@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 
 namespace PlanMyNight.Calculations {
-    /// <summary>
-    /// Classe principale de calcul du plugin.
-    /// </summary>
+    
+    /// Main Class for calcuations.
+    
     public static class PlanCalculator {
         public static ExposureResult Calculate(ExposureRequest request) {
             var result = new ExposureResult();
